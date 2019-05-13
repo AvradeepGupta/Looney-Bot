@@ -1,0 +1,33 @@
+{
+  "id": "e250d3b3-575a-43a0-9e44-0a666948f359",
+  "parentId": "b3b031e7-a19c-4851-bbc3-90d8bf8d05db",
+  "rootParentId": "b3b031e7-a19c-4851-bbc3-90d8bf8d05db",
+  "name": "book a ticket - yes",
+  "auto": true,
+  "contexts": [
+    "bookaticket-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "bookaticket.bookaticket-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Okay, booking a movie ticket"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531867231,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,36 @@
+{
+  "id": "ecbc252f-39dd-4440-8c18-32c2e46c483a",
+  "parentId": "6d38b75f-52fc-4668-a6c4-0efa46f55dd1",
+  "rootParentId": "6d38b75f-52fc-4668-a6c4-0efa46f55dd1",
+  "name": "cancel a ticket - yes",
+  "auto": true,
+  "contexts": [
+    "cancelaticket-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "cancelaticket.cancelaticket-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Okay cancelling your ticket",
+            "Cancelling your movie ticket"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531867231,
+  "fallbackIntent": false,
+  "events": []
+}

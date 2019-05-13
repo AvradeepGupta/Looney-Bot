@@ -1,0 +1,69 @@
+[
+  {
+    "id": "5390e98b-9473-4881-acc1-66ce6cad9232",
+    "data": [
+      {
+        "text": "Car booking please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2be8c64c-da87-4cca-95ae-9770926ba353",
+    "data": [
+      {
+        "text": "Book me an ",
+        "userDefined": false
+      },
+      {
+        "text": "ola",
+        "alias": "car",
+        "meta": "@car",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1d6e3e78-0a56-42fe-963c-b71fe36b78da",
+    "data": [
+      {
+        "text": "Get me a ride",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9776e03b-5fb8-40df-aab0-de902c214bce",
+    "data": [
+      {
+        "text": "I want to book a cab",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d51446fb-1b59-4cb9-977d-f2f0e8491c2f",
+    "data": [
+      {
+        "text": "i want to drive ",
+        "userDefined": false
+      },
+      {
+        "text": "mercedes",
+        "alias": "car",
+        "meta": "@car",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

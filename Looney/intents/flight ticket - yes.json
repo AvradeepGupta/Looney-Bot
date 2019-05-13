@@ -1,0 +1,36 @@
+{
+  "id": "ce61936e-8937-4b6a-9a32-545751b5512a",
+  "parentId": "81781dd1-7583-46f0-b215-1228fe0ed47f",
+  "rootParentId": "81781dd1-7583-46f0-b215-1228fe0ed47f",
+  "name": "flight ticket - yes",
+  "auto": true,
+  "contexts": [
+    "flightticket-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "flightticket.flightticket-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Sure sir booking a flight ticket",
+            "Booking your ticket"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531867231,
+  "fallbackIntent": false,
+  "events": []
+}

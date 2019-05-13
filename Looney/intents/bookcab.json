@@ -1,0 +1,48 @@
+{
+  "id": "2d970b37-c7bf-41d0-8684-4359630be7d5",
+  "name": "bookcab",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "bookcab-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "06e25561-bd90-41b5-8673-3237e2691e5e",
+          "required": true,
+          "dataType": "@car",
+          "name": "car",
+          "value": "$car",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Decide your vehicle"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Are you sure you want to book a $car cab ?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

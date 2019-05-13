@@ -1,0 +1,46 @@
+[
+  {
+    "id": "c030e5fc-83c2-44b1-b187-f0f398bfdef2",
+    "data": [
+      {
+        "text": "Could you please cancel the ticket?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9ca79aef-8369-4f16-bcdf-4c672905c9e6",
+    "data": [
+      {
+        "text": "I want to cancel my booking",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3645ac9b-fedc-4306-9a6b-94a823727ca5",
+    "data": [
+      {
+        "text": "I want to cancel my ticket",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ef3fb042-3525-431b-8435-ddd2ff825882",
+    "data": [
+      {
+        "text": "Please can you cancel my flight ticket?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

@@ -1,0 +1,117 @@
+[
+  {
+    "id": "03ca9c80-2e05-4feb-b6a4-cd591feba891",
+    "data": [
+      {
+        "text": "london",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "608fecb5-3d51-40fa-a963-67a8c43bd2da",
+    "data": [
+      {
+        "text": "next month",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "89f2aa63-f726-4135-a49e-2c3563cf5dd2",
+    "data": [
+      {
+        "text": "Please book a flight ",
+        "userDefined": false
+      },
+      {
+        "text": "this week",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "paris",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f961edd5-2ee3-453e-8450-842642ead4f8",
+    "data": [
+      {
+        "text": "book a flight ticket to ",
+        "userDefined": false
+      },
+      {
+        "text": "london",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "next week",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2fac3b1e-58bf-4179-800e-b6948d5dcdbd",
+    "data": [
+      {
+        "text": "Book a flight",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "97204b97-1680-4ddf-85a0-3850ca0c2215",
+    "data": [
+      {
+        "text": "Please book me a flight ticket",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "51debe64-a05f-4cd8-9d38-c9b4cf9b6fc6",
+    "data": [
+      {
+        "text": "I want to book a flight ticket",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

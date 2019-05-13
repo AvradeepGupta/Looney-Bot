@@ -1,0 +1,24 @@
+[
+  {
+    "id": "bfa70b42-58c6-4365-b844-e00ec3c8c30d",
+    "data": [
+      {
+        "text": "List my movies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f4c210fb-b003-4bd0-a145-711ac775de09",
+    "data": [
+      {
+        "text": "Which movies do i have?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

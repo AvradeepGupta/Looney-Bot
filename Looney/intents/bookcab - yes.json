@@ -1,0 +1,47 @@
+{
+  "id": "848dcce0-52e2-420b-91bb-d22f2febc41b",
+  "parentId": "2d970b37-c7bf-41d0-8684-4359630be7d5",
+  "rootParentId": "2d970b37-c7bf-41d0-8684-4359630be7d5",
+  "name": "bookcab - yes",
+  "auto": true,
+  "contexts": [
+    "bookcab-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "bookcab.bookcab-yes",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d5df041f-6433-4141-9c41-998dfcea9757",
+          "required": true,
+          "dataType": "@car",
+          "name": "car",
+          "value": "$car",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please confirm your ride"
+            }
+          ]
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "okay sir booking  a  $car cab for you"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531867231,
+  "fallbackIntent": false,
+  "events": []
+}

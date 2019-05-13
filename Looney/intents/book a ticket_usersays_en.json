@@ -1,0 +1,35 @@
+[
+  {
+    "id": "5c291677-6b96-4810-8119-a0e08bd9e134",
+    "data": [
+      {
+        "text": "I want to book a movie ticket",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "61eef7ff-5941-4fca-8501-28b7c3106bb2",
+    "data": [
+      {
+        "text": "Book a ticket for me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0d2b2758-8241-43ac-956c-bb5a9c768011",
+    "data": [
+      {
+        "text": "Please book a movie ticket",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "value": "audi",
+    "synonyms": [
+      "audi"
+    ]
+  },
+  {
+    "value": "ferrari",
+    "synonyms": [
+      "ferrari"
+    ]
+  },
+  {
+    "value": "lamborgini",
+    "synonyms": [
+      "lamborgini"
+    ]
+  },
+  {
+    "value": "mercedes",
+    "synonyms": [
+      "mercedes"
+    ]
+  },
+  {
+    "value": "ola",
+    "synonyms": [
+      "ola"
+    ]
+  },
+  {
+    "value": "tesla",
+    "synonyms": [
+      "tesla"
+    ]
+  },
+  {
+    "value": "uber",
+    "synonyms": [
+      "uber"
+    ]
+  }
+]
